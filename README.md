@@ -1,6 +1,8 @@
 Description
 ===========
 
+__Note: This is a forked version of BusBoy with breaking changes. For the original library, and the versino published in npm, see https://github.com/mscdex/busboy__
+
 A node.js module for parsing incoming HTML form data.
 
 If you've found this module to be useful and wish to support it, you may do so by visiting this pledgie campaign:
